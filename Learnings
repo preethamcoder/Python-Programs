@@ -1,0 +1,2 @@
+'Write' truncates file, it overwrites the existing file.
+'Append' adds content to the end of the file.
