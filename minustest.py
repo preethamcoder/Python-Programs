@@ -1,4 +1,4 @@
 if(0):
-	print True
+	print(True)
 else:
-	print False
+	print(False)
